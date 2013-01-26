@@ -1,1 +1,3 @@
-asdfasdfasdfasdfaf123123123123
+<?php
+phpinfo();
+?>
